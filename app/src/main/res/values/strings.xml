@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Real Indonesian Flavors</string>
+    <string name="tx_no_data">No food results were found</string>
+    <string name="tx_no_internet">Oops... An error occurred</string>
+    <string name="searchbar_foods">Find your favorite food here...</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+</resources>
